@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pepper974yt
+- 👋 Hi, I’m Pepper
 - 👀 I’m interested in making game
 - 🌱 I’m currently learning lua in studio,html,js and css
 - 💞️ I’m looking to collaborate on nothing
