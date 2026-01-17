@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pepper
 - 👀 I’m interested in making game
-- 🌱 I’m currently learning lua in studio,html,js,css and cs
+- 🌱 I’m currently learning python and cs
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me gmail or discord
 - 😄 Pronouns: he/him
